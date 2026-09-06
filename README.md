@@ -7,7 +7,7 @@ I'm a Full-Stack Developer and a second-year Software Engineering student passio
 
 ### 🎓 Education
 - Second-Year Software Engineering Student
-- Currently preparing for the CCNA certification
+- Currently preparing for the AWS certified architecture solution associate certification
 
 ### 💻 Current Projects
 - School Management System
